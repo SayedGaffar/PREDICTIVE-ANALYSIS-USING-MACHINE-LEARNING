@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## In this project, I performed a comprehensive analysis of Diwali Sales Data using Dask to handle the large dataset efficiently. The objective was to derive insights into customer purchasing behavior, sales performance, and demographic trends during the Diwali season using scalable data processing
+## In this project, I performed a comprehensive predictive analysis on the Titanic dataset using Machine Learning. The objective was to determine the key factors influencing passenger survival by analyzing demographic and socio-economic data. I implemented Logistic Regression and Random Forest models, evaluated their performance, and identified important features using visualizations. The analysis revealed that gender, class, and age were the most significant predictors, with women, children, and first-class passengers having the highest survival rates.
 
 ## Conclusion
  The analysis revealed that gender, socio-economic class, and age were key factors influencing survival on the Titanic. Women, children, and first-class passengers had higher survival rates. The Random Forest model performed better than Logistic Regression, highlighting the importance of these factors.
